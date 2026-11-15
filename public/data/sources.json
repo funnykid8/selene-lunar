@@ -1,0 +1,5 @@
+{
+ "imagery":{"name":"LROC WAC global mosaic","provider":"NASA/ASU LROC","portal":"https://lroc.im-ldi.com/"},
+ "elevation":{"name":"LOLA DEM","provider":"NASA Lunar Reconnaissance Orbiter","archive":"https://pds-geosciences.wustl.edu/missions/lro/lola.htm","status":"Not sampled in this demo"},
+ "thermal":{"name":"Diviner radiometry","provider":"NASA LRO Diviner","archive":"https://pds-geosciences.wustl.edu/missions/lro/diviner.htm","status":"Not sampled in this demo"}
+}
